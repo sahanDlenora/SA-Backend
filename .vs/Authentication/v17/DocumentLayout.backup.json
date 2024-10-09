@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\migrations\\20241006064237_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20241006064237_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C93FA052-599F-49F4-8D76-F33E02E7F92C}|Authentication\\Authentication.csproj|c:\\users\\lenovo\\source\\repos\\authentication\\authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -54,46 +58,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Authentication\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Authentication\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Payment.cs",
+              "RelativeToolTip": "Authentication\\Models\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T13:13:28.651Z",
+              "WhenOpened": "2024-10-09T18:28:03.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Bid.cs*",
+              "RelativeToolTip": "Authentication\\Models\\Bid.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Auction.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Auction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Auction.cs",
+              "RelativeToolTip": "Authentication\\Models\\Auction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Authentication\\Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Data\\DataContext.cs",
               "RelativeToolTip": "Authentication\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T09:22:06.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Authentication\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeToolTip": "Authentication\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:36:38.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\appsettings.json",
               "RelativeDocumentMoniker": "Authentication\\appsettings.json",
@@ -106,32 +123,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Authentication.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.http",
+              "RelativeDocumentMoniker": "Authentication\\Authentication.http",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.http",
+              "RelativeToolTip": "Authentication\\Authentication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-05T15:19:56.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Program.cs",
               "RelativeDocumentMoniker": "Authentication\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Program.cs",
               "RelativeToolTip": "Authentication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T09:30:55.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241006064237_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Migrations\\20241006064237_Initial.cs",
-              "RelativeDocumentMoniker": "Authentication\\Migrations\\20241006064237_Initial.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Migrations\\20241006064237_Initial.cs",
-              "RelativeToolTip": "Authentication\\Migrations\\20241006064237_Initial.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAgwMwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:36:04.657Z"
+              "WhenOpened": "2024-10-05T13:13:28.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Authentication\\WeatherForecast.cs",
@@ -143,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Authentication\\Properties\\launchSettings.json",
@@ -155,19 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Authentication.http",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.http",
-              "RelativeDocumentMoniker": "Authentication\\Authentication.http",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.http",
-              "RelativeToolTip": "Authentication\\Authentication.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-05T15:19:56.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Authentication.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
               "RelativeDocumentMoniker": "Authentication\\Authentication.csproj",
@@ -176,6 +195,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-05T09:34:46.518Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         },

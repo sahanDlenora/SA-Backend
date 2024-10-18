@@ -144,3 +144,6 @@ C:\Users\Lenovo\source\repos\Authentication\Authentication\bin\Debug\net8.0\Scru
 C:\Users\Lenovo\source\repos\Authentication\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Users\Lenovo\source\repos\Authentication\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
 C:\Users\Lenovo\source\repos\Authentication\Authentication\obj\Debug\net8.0\Authentication.sourcelink.json
+C:\Users\Lenovo\source\repos\Authentication\Authentication\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\source\repos\Authentication\Authentication\bin\Debug\net8.0\MailKit.dll
+C:\Users\Lenovo\source\repos\Authentication\Authentication\bin\Debug\net8.0\MimeKit.dll

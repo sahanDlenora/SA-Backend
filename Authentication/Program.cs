@@ -1,6 +1,8 @@
 
 
 using api.Data;
+using Authentication.Background_Service;
+using Authentication.Service;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -27,6 +29,11 @@ builder.Services.AddSwaggerGen(options =>
 
 builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+// Register services
+builder.Services.AddSingleton<MailService>();
+builder.Services.AddHostedService<AuctionBackgroundService>();
 
 builder.Services.AddAuthorization();
 

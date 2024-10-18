@@ -43,6 +43,5 @@ namespace Authentication.Models
 
         public IdentityUser Seller { get; set; } // Reference to the user
 
-
     }
 }

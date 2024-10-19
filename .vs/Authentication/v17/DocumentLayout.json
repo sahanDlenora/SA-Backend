@@ -98,8 +98,7 @@
               "RelativeToolTip": "Authentication\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:32:34.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:32:34.114Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "Authentication\\Models\\Auction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:42:28.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T10:42:28.36Z"
             },
             {
               "$type": "Document",
@@ -122,10 +120,9 @@
               "RelativeDocumentMoniker": "Authentication\\Background Service\\AuctionBackgroundService.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Background Service\\AuctionBackgroundService.cs",
               "RelativeToolTip": "Authentication\\Background Service\\AuctionBackgroundService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:49:20.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:49:20.026Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "Authentication\\Interface\\IEmail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:39:22.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:39:22.852Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,7 @@
               "RelativeToolTip": "Authentication\\Service\\sendMail.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:32:22.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:32:22.224Z"
             },
             {
               "$type": "Document",
@@ -163,8 +158,7 @@
               "RelativeToolTip": "Authentication\\PublicClasses\\UploadHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:14:30.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:14:30.704Z"
             },
             {
               "$type": "Document",
@@ -174,7 +168,7 @@
               "RelativeDocumentMoniker": "Authentication\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Program.cs",
               "RelativeToolTip": "Authentication\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T07:32:39.981Z",
               "EditorCaption": ""
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Authentication\\Controllers\\emailController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:45:18.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:45:18.762Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Authentication\\Controllers\\BidController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:31:46.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:31:46.663Z"
             },
             {
               "$type": "Document",
@@ -213,10 +205,9 @@
               "RelativeDocumentMoniker": "Authentication\\Controllers\\AuctionController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Controllers\\AuctionController.cs",
               "RelativeToolTip": "Authentication\\Controllers\\AuctionController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wDIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:43:19.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T11:43:19.879Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "Authentication\\Background Service\\ImageController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:58:28.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:58:28.106Z"
             },
             {
               "$type": "Document",
@@ -241,8 +231,7 @@
               "RelativeToolTip": "Authentication\\Dtos\\Bids\\CreateBidDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:08:52.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T06:08:52.9Z"
             },
             {
               "$type": "Document",
@@ -254,8 +243,7 @@
               "RelativeToolTip": "Authentication\\Dtos\\User\\CreateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:10:06.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T06:10:06.062Z"
             },
             {
               "$type": "Document",
@@ -267,8 +255,7 @@
               "RelativeToolTip": "Authentication\\Dtos\\Auction\\CreateAuctionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:41:50.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T10:41:50.842Z"
             },
             {
               "$type": "Document",
@@ -280,21 +267,19 @@
               "RelativeToolTip": "Authentication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-17T07:32:45.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:32:45.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Authentication",
+              "Title": "Authentication.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
               "RelativeDocumentMoniker": "Authentication\\Authentication.csproj",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
               "RelativeToolTip": "Authentication\\Authentication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T06:41:06.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T06:41:06.807Z"
             },
             {
               "$type": "Document",
@@ -306,8 +291,7 @@
               "RelativeToolTip": "Authentication\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:00:40.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:00:40.585Z"
             },
             {
               "$type": "Document",
@@ -317,10 +301,9 @@
               "RelativeDocumentMoniker": "Authentication\\Models\\Payment.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Models\\Payment.cs",
               "RelativeToolTip": "Authentication\\Models\\Payment.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:43:41.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T05:43:41.383Z"
             },
             {
               "$type": "Document",
@@ -332,8 +315,7 @@
               "RelativeToolTip": "Authentication\\Models\\Bid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:43:35.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T05:43:35.368Z"
             }
           ]
         },

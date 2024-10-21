@@ -75,5 +75,27 @@ namespace Authentication.Controllers
 
             return Ok(auction);
         }
+
+        [HttpGet("user-auctions"), Authorize]
+        public async Task<IActionResult> GetUserAuctions()
+        {
+            // Get the logged-in user's ID (SellerId)
+            var userId = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
+
+            if (userId == null)
+            {
+                return Unauthorized("User not found.");
+            }
+
+            // Filter auctions by SellerId
+            var userAuctions = await _context.Auctions
+                .Where(a => a.SellerId == userId)  // Filter by SellerId
+                .Include(a => a.Seller)            // Include Seller details if needed
+                .ToListAsync();
+
+            return Ok(userAuctions);  // Return auctions that belong to the logged-in user
+        }
+
+
     }
 }

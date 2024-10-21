@@ -19,7 +19,7 @@ namespace Authentication.Background_Service
             }
 
             // Construct the full URL to the uploaded file
-            var fileUrl = $"{Request.Scheme}://{Request.Host}/Uploads/{fileName}";
+            var fileUrl = $"{Request.Scheme}://{Request.Host}/api/Image/{fileName}";
 
             return Ok(fileUrl); // Return the URL of the uploaded image
         }
@@ -27,15 +27,25 @@ namespace Authentication.Background_Service
         [HttpGet("{fileName}")]
         public IActionResult GetImage(string fileName)
         {
-            var path = Path.Combine(Directory.GetCurrentDirectory(), "Uploads", fileName);
+            var filePath = Path.Combine("Uploads", fileName);
 
-            if (!System.IO.File.Exists(path))
+            if (!System.IO.File.Exists(filePath))
             {
                 return NotFound("Image not found");
             }
 
-            var image = System.IO.File.ReadAllBytes(path);
-            return File(image, "image/jpeg");
+            // Determine MIME type based on file extension
+            var fileExtension = Path.GetExtension(filePath).ToLower();
+            var mimeType = fileExtension switch
+            {
+                ".jpg" or ".jpeg" => "image/jpeg",
+                ".png" => "image/png",
+                ".gif" => "image/gif",
+                _ => "application/octet-stream",  // Default for unknown types
+            };
+
+            var imageBytes = System.IO.File.ReadAllBytes(filePath);
+            return File(imageBytes, mimeType);
         }
 
     }

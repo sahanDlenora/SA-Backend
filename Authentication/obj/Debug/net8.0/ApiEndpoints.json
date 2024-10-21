@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "Authentication.Controllers.AuctionController",
+    "Method": "GetAuctionById",
+    "RelativePath": "api/Auction/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Authentication.Controllers.AuctionController",
     "Method": "CreateAuction",
     "RelativePath": "api/Auction/create",
     "HttpMethod": "POST",

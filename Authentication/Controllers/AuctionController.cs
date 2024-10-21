@@ -30,6 +30,23 @@ namespace Authentication.Controllers
             return Ok(_context.Auctions.Include(c => c.Seller).ToList());
         }
 
+        // GET: api/auction/{id} (Gets auction by Id)
+        [HttpGet("{id:int}"), Authorize]
+        public async Task<IActionResult> GetAuctionById(int id)
+        {
+            // Retrieve the auction by its ID, including the Seller details
+            var auction = await _context.Auctions
+                .Include(a => a.Seller)  // Include Seller details if needed
+                .FirstOrDefaultAsync(a => a.AuctionId == id);
+
+            if (auction == null)
+            {
+                return NotFound($"Auction with ID {id} not found.");
+            }
+
+            return Ok(auction);  // Return the auction if found
+        }
+
         [HttpPost("create"), Authorize]
         public async Task<IActionResult> CreateAuction([FromBody] CreateAuctionDto dto)
         {

@@ -78,6 +78,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Authentication.Controllers.BidController",
+    "Method": "GetHighestBid",
+    "RelativePath": "api/Bid/highest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auctionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Authentication.Controllers.emailController",
     "Method": "SendEmail",
     "RelativePath": "api/email",

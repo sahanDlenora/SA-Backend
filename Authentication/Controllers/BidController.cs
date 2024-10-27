@@ -28,6 +28,22 @@ namespace Authentication.Controllers
             return Ok(_context.Bids.ToList());
         }
 
+        // Get highest bid for a specific auction
+        [HttpGet("highest"), Authorize]
+        public IActionResult GetHighestBid(int auctionId)
+        {
+            var highestBid = _context.Bids
+                .Where(b => b.AuctionId == auctionId)
+                .OrderByDescending(b => b.BidAmount)
+                .FirstOrDefault();
+
+            if (highestBid == null)
+                return NotFound("No bids found for this auction.");
+
+            return Ok(highestBid);
+        }
+
+
         [HttpPost("create"), Authorize]
 
         public async Task<IActionResult> CreateBid([FromBody] CreateBidDto dto)

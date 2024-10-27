@@ -98,8 +98,7 @@
               "RelativeToolTip": "Authentication\\Models\\Auction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:42:28.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T10:42:28.36Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "Authentication\\Dtos\\User\\CreateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:10:06.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T06:10:06.062Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "Authentication\\PublicClasses\\UploadHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:14:30.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:14:30.704Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "Authentication\\Models\\Bid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:43:35.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T05:43:35.368Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,7 @@
               "RelativeToolTip": "Authentication\\Controllers\\AuctionController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:43:19.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T11:43:19.879Z"
             },
             {
               "$type": "Document",
@@ -161,7 +156,7 @@
               "RelativeDocumentMoniker": "Authentication\\Controllers\\BidController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Controllers\\BidController.cs",
               "RelativeToolTip": "Authentication\\Controllers\\BidController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T04:31:46.663Z",
               "EditorCaption": ""
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Authentication\\Controllers\\emailController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:45:18.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:45:18.762Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Authentication\\Dtos\\Bids\\CreateBidDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:08:52.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T06:08:52.9Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Authentication\\Dtos\\Auction\\CreateAuctionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:41:50.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T10:41:50.842Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "Authentication\\Background Service\\ImageController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:58:28.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:58:28.106Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "Authentication\\Background Service\\AuctionBackgroundService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:49:20.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:49:20.026Z"
             },
             {
               "$type": "Document",

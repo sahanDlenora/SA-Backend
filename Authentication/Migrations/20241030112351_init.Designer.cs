@@ -12,8 +12,8 @@ using api.Data;
 namespace Authentication.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20241014063814_Init")]
-    partial class Init
+    [Migration("20241030112351_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

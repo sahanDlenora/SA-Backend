@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj": {}
+    "C:\\Users\\Naveen Thranthige\\source\\repos\\SA-Backend\\Authentication\\Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj": {
+    "C:\\Users\\Naveen Thranthige\\source\\repos\\SA-Backend\\Authentication\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\Naveen Thranthige\\source\\repos\\SA-Backend\\Authentication\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Authentication\\Authentication\\obj\\",
+        "projectPath": "C:\\Users\\Naveen Thranthige\\source\\repos\\SA-Backend\\Authentication\\Authentication.csproj",
+        "packagesPath": "C:\\Users\\Naveen Thranthige\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naveen Thranthige\\source\\repos\\SA-Backend\\Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Naveen Thranthige\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

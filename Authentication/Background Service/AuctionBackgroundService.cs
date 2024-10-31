@@ -1,5 +1,4 @@
 ﻿using api.Data;
-using Authentication.Service;
 using Microsoft.EntityFrameworkCore;
 
 namespace Authentication.Background_Service
@@ -7,13 +6,8 @@ namespace Authentication.Background_Service
     public class AuctionBackgroundService : BackgroundService
     {
         private readonly IServiceProvider _serviceProvider;
-        private readonly MailService _mailService;
 
-        public AuctionBackgroundService(IServiceProvider serviceProvider, MailService mailService)
-        {
-            _serviceProvider = serviceProvider;
-            _mailService = mailService;
-        }
+        
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
@@ -55,7 +49,6 @@ namespace Authentication.Background_Service
 
                         Console.WriteLine(email);
 
-                        await _mailService.SendTestEmailAsync(auction.AuctionId.ToString(), email, message);
                     }
 
                     if (expiredAuctions.Any())

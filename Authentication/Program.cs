@@ -2,7 +2,6 @@
 
 using api.Data;
 using Authentication.Background_Service;
-using Authentication.Service;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -32,7 +31,6 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 
 // Register services
-builder.Services.AddSingleton<MailService>();
 builder.Services.AddHostedService<AuctionBackgroundService>();
 
 builder.Services.AddAuthorization();

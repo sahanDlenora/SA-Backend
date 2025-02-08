@@ -28,7 +28,7 @@ namespace Authentication.Controllers
             return Ok(_context.Bids.ToList());
         }
 
-        // Get highest bid for a specific auction
+        // Get the highest bid for a specific auction
         [HttpGet("highest"), Authorize]
         public IActionResult GetHighestBid(int auctionId)
         {

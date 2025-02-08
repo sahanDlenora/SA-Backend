@@ -18,6 +18,7 @@ namespace api.Data
 
         }
 
+        //more
 
         public DbSet<Auction> Auctions { get; set; }
 
